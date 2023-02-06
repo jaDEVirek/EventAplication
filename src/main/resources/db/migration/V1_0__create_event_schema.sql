@@ -1,0 +1,26 @@
+-- CREATE TABLE IF NOT EXISTS Event
+-- (
+--     id
+--     BIGINT
+--     AUTO_INCREMENT
+--     PRIMARY
+--     KEY,
+--     title
+--     VARCHAR
+-- (
+--     255
+-- ),
+--     place VARCHAR
+-- (
+--     255
+-- ),
+--     speaker VARCHAR
+-- (
+--     255
+-- ),
+--     event_type VARCHAR
+-- (
+--     255
+-- ),
+--     date_time DATETIME
+--     ) ENGINE=InnoDB DEFAULT CHARSET=UTF8;
